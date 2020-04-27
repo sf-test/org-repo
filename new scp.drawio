@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-27T02:31:12.933Z" host="app.diagrams.net" agent="5.0 (X11)" etag="4q1nyUG57gAJjU2Kh4Qp" version="13.0.0" type="github">
+<mxfile modified="2020-04-27T02:34:27.686Z" host="app.diagrams.net" agent="5.0 (X11)" etag="qfH294SSJ_MOJh195VI-" version="13.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1197" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="IRfrHBrm6OW_r3Jur07C-15" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="505" y="120" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IRfrHBrm6OW_r3Jur07C-16" value="送货管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="IRfrHBrm6OW_r3Jur07C-16" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRfrHBrm6OW_r3Jur07C-17" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
