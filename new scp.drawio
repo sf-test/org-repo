@@ -1,12 +1,9 @@
-<mxfile modified="2020-04-27T02:34:27.686Z" host="app.diagrams.net" agent="5.0 (X11)" etag="qfH294SSJ_MOJh195VI-" version="13.0.0" type="github">
+<mxfile modified="2020-04-27T02:35:17.861Z" host="app.diagrams.net" agent="5.0 (X11)" etag="_8XwnbmnN0avDvueLkh-" version="13.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1197" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UEzPUAAOIrF-is8g5C7q-123" value="Amazon&lt;br&gt;CloudWatch Logs&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;gradientDirection=north;fillColor=#F34482;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="800.5000000000002" y="701.5" width="78" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="IRfrHBrm6OW_r3Jur07C-1" value="微信开放平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="930" y="190" width="120" height="60" as="geometry" />
         </mxCell>
