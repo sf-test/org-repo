@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T09:14:25.155Z" agent="5.0 (Windows)" etag="auvtJBuL0wZXuObQ_RZk" version="13.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T09:18:34.543Z" agent="5.0 (Windows)" etag="msEUNv9ehka5tTdwB8NF" version="13.0.8" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1027" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -21,6 +21,18 @@
         </mxCell>
         <mxCell id="57fe6abec08f04cb-6" value="Prod" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_EBt2JK4RaxwGtKRJiT-1" value="" style="shape=flexArrow;endArrow=classic;html=1;width=42;endSize=9;endWidth=52;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="960" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_EBt2JK4RaxwGtKRJiT-2" value="Bug 修复成本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y_EBt2JK4RaxwGtKRJiT-1">
+          <mxGeometry x="-0.0405" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
