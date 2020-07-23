@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T08:28:29.018Z" agent="5.0 (X11)" etag="EkZoDcPlAiL3mPhEGjvI" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T09:28:18.804Z" agent="5.0 (X11)" etag="2Mg4a4Hf0m8ZWnSFEvuV" version="13.1.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,13 +28,13 @@
         <mxCell id="o_X-Q_mbgcwtk6PAzBO2-7" value="编写/维护测试代码" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="860" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-8" value="几周学习熟悉" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-8" value="学习成本" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="850" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-9" value="测试用例可以充当文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-9" value="regression" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-10" value="regression" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-10" value="测试用例可以充当文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o_X-Q_mbgcwtk6PAzBO2-11" value="更深入理解代码" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
