@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T08:02:05.504Z" agent="5.0 (X11)" etag="u0-LnptYLAP24GATbpzX" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T08:28:29.018Z" agent="5.0 (X11)" etag="EkZoDcPlAiL3mPhEGjvI" version="13.1.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="o_X-Q_mbgcwtk6PAzBO2-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="720" y="1050" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-6" value="开发阶段暴露bug" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-6" value="开发阶段暴露bug，修复成本最低" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-7" value="维护测试代码" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-7" value="编写/维护测试代码" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="860" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o_X-Q_mbgcwtk6PAzBO2-8" value="几周学习熟悉" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="o_X-Q_mbgcwtk6PAzBO2-11" value="更深入理解代码" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="430" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-12" value="开发效率更高（TDD)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="o_X-Q_mbgcwtk6PAzBO2-12" value="更高的开发效率/w TDD" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
