@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T09:28:21.499Z" agent="5.0 (X11)" etag="Zz6JNRLd5Ynd5zskFwKd" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T09:31:12.609Z" agent="5.0 (X11)" etag="aSNaM5dD2vLodWklUUnj" version="13.6.9" type="github">
   <diagram id="3aNTnZ92MdLVvDTgde-r" name="Page-1">
     <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,18 @@
         </mxCell>
         <mxCell id="Unx9tDjZ7HLFptt-QYS_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Unx9tDjZ7HLFptt-QYS_-30" target="Unx9tDjZ7HLFptt-QYS_-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Unx9tDjZ7HLFptt-QYS_-32" value="Prometheus Operator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Unx9tDjZ7HLFptt-QYS_-33" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Unx9tDjZ7HLFptt-QYS_-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Unx9tDjZ7HLFptt-QYS_-35" value="Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
