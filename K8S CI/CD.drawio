@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T03:33:26.327Z" agent="5.0 (X11)" etag="aXrIbg1I4HVJKiVIhNSZ" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T03:42:05.194Z" agent="5.0 (X11)" etag="77FXgoYKAae5ZJiPutCy" version="13.7.1" type="github">
   <diagram id="uevzfpadG8BJx-zsAJZ2" name="Page-1">
     <mxGraphModel dx="1343" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="350" y="200" width="410" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7sBLjf1K2WScxn9F28ua-5" value="&lt;div&gt;Kubernetes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="211" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="210" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7sBLjf1K2WScxn9F28ua-7" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="75" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="490" y="360" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7sBLjf1K2WScxn9F28ua-14" value="Harbor" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7sBLjf1K2WScxn9F28ua-15" value="Gitlab" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="90" height="40" as="geometry" />
