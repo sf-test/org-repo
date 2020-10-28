@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T06:57:41.873Z" agent="5.0 (X11)" etag="BEPeU-YW0BuJr_AMxrqz" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T07:06:32.484Z" agent="5.0 (X11)" etag="3-fIV2Ybdk-aDeQnEUEr" version="13.7.3" type="github">
   <diagram id="7MFqqRCHg5uXiT1dcqxL" name="Page-1">
     <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="gCLjXgu428mkZAsLbG3j-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="320" as="sourcePoint" />
             <mxPoint x="451" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -99,7 +99,7 @@
           <mxGeometry x="576" y="345" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCLjXgu428mkZAsLbG3j-53" value="Gitlab" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="250" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gCLjXgu428mkZAsLbG3j-54" value="" style="endArrow=classic;html=1;entryX=0.007;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gCLjXgu428mkZAsLbG3j-53" target="gCLjXgu428mkZAsLbG3j-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,6 +169,15 @@
         </mxCell>
         <mxCell id="gCLjXgu428mkZAsLbG3j-72" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_group" vertex="1" parent="1">
           <mxGeometry x="486" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCLjXgu428mkZAsLbG3j-73" value="&lt;b&gt;Feature Branch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gCLjXgu428mkZAsLbG3j-74" value="&lt;b&gt;Main Branch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gCLjXgu428mkZAsLbG3j-75" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_group" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
