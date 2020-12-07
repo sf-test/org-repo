@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T03:35:47.261Z" agent="5.0 (X11)" etag="PomCgsEjVRhF8_EbE9Xl" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T03:39:47.624Z" agent="5.0 (X11)" etag="n2zuBHd5CeMfWLRg48LK" version="13.8.5" type="github">
   <diagram id="8HnISGoVaL02uWpOQnl4" name="Page-1">
     <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,9 +17,9 @@
         <mxCell id="gGDSIBCd_86sw6YS736D-1" value="Gitlab" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gGDSIBCd_86sw6YS736D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="gGDSIBCd_86sw6YS736D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="160" as="sourcePoint" />
+            <mxPoint x="140" y="160" as="sourcePoint" />
             <mxPoint x="340" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -64,7 +64,7 @@
         <mxCell id="gGDSIBCd_86sw6YS736D-21" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="570" width="55" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gGDSIBCd_86sw6YS736D-22" value="Platform-Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="gGDSIBCd_86sw6YS736D-22" value="&lt;div&gt;Platform-Service&lt;/div&gt;&lt;div&gt;(Mail, ... )&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGDSIBCd_86sw6YS736D-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -147,9 +147,9 @@
             <mxPoint x="250" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGDSIBCd_86sw6YS736D-57" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gGDSIBCd_86sw6YS736D-56">
-          <mxGeometry x="-0.1107" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="gGDSIBCd_86sw6YS736D-94" value="diff &amp;amp; sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="gGDSIBCd_86sw6YS736D-56">
+          <mxGeometry x="-0.8098" relative="1" as="geometry">
+            <mxPoint y="17.32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gGDSIBCd_86sw6YS736D-61" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gGDSIBCd_86sw6YS736D-8" target="gGDSIBCd_86sw6YS736D-48">
